@@ -1,7 +1,7 @@
 {
   "name": "Instgram as Progressive Web App",
   "short_name": "PWAGram",
-  "start_url": "indexd.html",
+  "start_url": "index.html",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
